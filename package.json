@@ -1,0 +1,19 @@
+{
+  "name": "@paypalcorp/mywebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.paypal.com:rosgupta/mywebsite.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://rosgupta.github.io/mywebsite",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
